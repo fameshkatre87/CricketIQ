@@ -1,0 +1,5 @@
+Model,rmse,mae,r2
+LSTM (Attention),2.8948,2.4033,0.4614
+XGBoost,2.1555,1.004,0.7777
+LightGBM,2.2362,1.2107,0.7607
+Ensemble (Final),2.1755,1.0679,0.7735

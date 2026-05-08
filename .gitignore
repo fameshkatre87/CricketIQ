@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large model files (deploy pe generate honge)
+data/models/*.pt
+data/models/*.pkl
+data/processed/scaler.pkl
+data/models/best_lstm_ckpt.pt
+
+# Sensitive
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
