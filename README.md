@@ -1,7 +1,17 @@
 # 🏏 CricketIQ — AI IPL Auction Price Prediction
 
-> **Internship Project** — Dynamic IPL Player Auction Value Prediction using AI and Multi-source Data
+> **Infosys Springboard 6.0 Internship Project**
+> 
+> Presented by: Famesh Katre
+> 
+> Mentor: Pranaya Ma'am
+> 
+> Duration: 8 Weeks
 
+> **Internship Project** — Dynamic IPL Player Auction Value Prediction using AI and Multi-source Data
+> 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://cricketiq-fvk.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-fameshkatre87-black)](https://github.com/fameshkatre87/CricketIQ)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3-red)](https://pytorch.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green)](https://fastapi.tiangolo.com)
