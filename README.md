@@ -89,7 +89,7 @@ CricketIQ/
 
 ```bash
 # 1. Clone and setup
-git clone https://github.com/yourname/CricketIQ.git
+git clone https://github.com/fameshkatre87/CricketIQ.git
 cd CricketIQ
 
 # 2. Virtual environment
