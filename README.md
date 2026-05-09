@@ -193,15 +193,7 @@ Negative additions: `duck (-2.8)`, `golden duck (-3.2)`, `injured (-2.8)`, `rule
 | 7 | Evaluation + comparison report | ✅ |
 | 8 | Streamlit dashboard + API + docs | ✅ |
 
----
 
-## ⚙️ Environment Variables (.env)
-
-```env
-NEWS_API_KEY=your_key_here     # newsapi.org — free 100 req/day
-MODEL_PATH=data/models/
-DATA_PATH=data/
-```
 
 ---
 
